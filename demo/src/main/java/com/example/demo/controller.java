@@ -10,8 +10,8 @@ public class controller {
     @ResponseBody
     @RequestMapping("index")
     public String demo(){
-        int a = 2;
-        return "hellocc";
+        int b = 2;
+        return "helloA";
     }
 
 }
