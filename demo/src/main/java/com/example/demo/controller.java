@@ -11,7 +11,7 @@ public class controller {
     @RequestMapping("index")
     public String demo(){
         int a = 2;
-        return "hello";
+        return "hellocc";
     }
 
 }
